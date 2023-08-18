@@ -1,4 +1,4 @@
-# Predictive Donor Re-Activation
+# Predictive Donor Activation
 
 This repository is for the Donor Re-Activation Campaign Analysis project. In this project, an organization aims to assist non-profit organizations in finding donors for their philanthropic causes. Focus of this project is on developing a predictive model to identify inactive donors who are likely to re-engage with the organization through re-activation campaigns.
 
